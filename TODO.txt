@@ -1,0 +1,21 @@
+Things to do.
+
+[X] Write a _fast_ set class for mutations.
+[X] Finish modifications to Chromosome class to
+    accomodate above.
+[X] Implement fitness formula for selection.
+[X] Figure out offspring behaviour.
+[X] Fam allele frequency
+[X] average & variance of fitness (FAM & non-fam)
+[X] average & variance of fitness of long/short - distance dispersal
+[X] check real short distance uniform (2)
+[ ] cost for distance dispersal option
+[X] option for allele dominance (1 bad = 1/20th or so)
+[ ] FAM relative fitness/small radius (1-2)
+[X] check open-space based movement (EverybodyReproduce)
+[ ] fixed probably of long-distance dispersal (FAM dependence on fitness)
+
+// idea
+have all surviving adults pair off & produce offspring
+select offspring until # of openings or so survive
+randomly fill openings until all are filled or no moves left
